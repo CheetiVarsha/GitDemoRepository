@@ -3,3 +3,6 @@ Git Commands:
 
 1.git status
 2.git init
+
+// how to merge a file
+-----------
